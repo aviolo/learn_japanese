@@ -103,7 +103,7 @@ branch|succursale
 agreement|accord, contrat
 economics| science économique
 share/stock|part action
-forecast|pévision
+forecast|prévision
 to run a firm|diriger une entreprise
 to supply|fournir
 loan|prêt, emprunt
@@ -244,7 +244,7 @@ the homeless|sans-abris
 assitance|aide
 unhealthy|insalubre
 illiteracy|analphabétisme
-the bare necessities|nécessaité de base
+the bare necessities|nécessité de base
 unemployement benefits|allocation chômage
 to be job hunting|recherche d'un emploi
 the labour market|marcher du travail
@@ -307,7 +307,7 @@ an employee handbook|convension
 staff attendance/to be tardy|présence du personnel/être en retard
 an employee expense voucher|note de frais
 voucher|bon, recu
-upsizinz|augmentation
+upsizing|augmentation
 downsizing|diminution
 a resume|CV
 a cover letter|lettre de motivation
@@ -697,7 +697,7 @@ take in|voir
 take off|enlever, décoller
 take on|engager
 take out|sortir
-take avoer|se charger de
+take over|se charger de
 take part in|participer à
 take place|avoir lieu
 take up|étudier
@@ -724,3 +724,12 @@ wear out|user
 work out|bien finir
 naughty|vilain
 stack|pile, tas
+imformation (invariable)|informations
+as|comme, d'autant plus que
+hang glide|deltaplane
+dozen(invariable)|douaine
+harsh|sévère
+more than expected|plus que prévu
+able to|en mesure
+venture|risque
+slightly|légèrement

@@ -1,4 +1,5 @@
 #-*- coding:utf-8 -*-
+
 '''
 Learn vocabulary
 
@@ -163,6 +164,8 @@ class Vocabulary:
         """Verify if the question is in the dictionary and hasn't been
         modified. Otherwise, we update the sentences in the txt file"""
         # First, is the key present in the dictionary?
+        #if question == "look up":
+        #    import ipdb; ipdb.set_trace()
         if question in self.vocabulary:
             answer = self.vocabulary[question]
         if question[1:] in self.vocabulary:
